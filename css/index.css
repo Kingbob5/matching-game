@@ -1,0 +1,964 @@
+* {
+    min-width: 150px;
+    max-width: 1000px;
+    background-color:#a5e1ff;
+}
+
+.space { 
+    padding-top: 59px;
+    background-color: white;
+    position: relative;
+    left: 20px;
+}
+
+.card1, .card2, .card3, .card4, .card5, .card6, .card7, .card8, .card9, .card10, .card11, .card12, .card13, .card14, .card15, .card16, .card17, .card18, .card19, .card20, .card21, .card22, .card23, .card24, .card25, .card26, .card27, .card28, .card29, .card30 { 
+    background-size: contain;
+    font-family: halvetica;
+    background-color: white; 
+    padding: 70px;
+    margin:7px; 
+    border: 1px solid black;
+    float:left;
+    border-radius: 10px;
+    display: block;
+    box-sizing: border-box;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+} 
+
+.cardstar-hidden {
+    background-size: contain;
+    font-family: halvetica;
+    background-color: white;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float:left;
+    border-radius: 10px;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+}
+.cardstar { 
+    background: url('http://www.antiochwealth.com/images/brock.jpg') no-repeat center center;
+    background-color: white;
+    background-size: cover;
+    font-family: halvetica;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float: left;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1;
+}
+.cardstar-matched { 
+    background: url('http://www.antiochwealth.com/images/brock.jpg') no-repeat center center;
+    background-color: white;
+    background-size: cover;
+    font-family: halvetica;
+    padding: 66px;
+    margin: 7px;
+    border: 5px solid green;
+    float: left; 
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1;
+} 
+
+.cardsquare-hidden {
+    background-size: contain;
+    font-family: halvetica;
+    background-color: white;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float:left;
+    border-radius: 10px;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+}
+.cardsquare { 
+    background: url('http://blogs.bethel.k12.or.us/imaurer/files/2014/10/square.jpg') repeat-x center center;
+    background-color: white;
+    background-size: contain;
+    clip: 100px;
+    font-family: halvetica;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float: left;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1;
+}
+.cardsquare-matched  {  
+    background: url('http://blogs.bethel.k12.or.us/imaurer/files/2014/10/square.jpg') repeat-x center center;
+    background-size: contain;
+    background-color: white;
+    clip: 100px;
+    font-family: halvetica;
+    padding: 66px;
+    margin: 7px;
+    border: 5px solid green;
+    float: left;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1;
+
+}
+
+.cardcicle-hidden {
+    background-size: contain;
+    font-family: halvetica;
+    background-color: white;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float:left;
+    border-radius: 10px;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+}
+.cardcircle { 
+    background: url('http://www.charlespetzold.com/blog/2012/12/BezierCircleFigure3.png') repeat-x center center;
+    background-color: white;
+    background-size: contain;
+    font-family: halvetica;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float: left;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1;
+}
+.cardcircle-matched  { 
+    background: url('http://www.charlespetzold.com/blog/2012/12/BezierCircleFigure3.png') repeat-x center center;
+    background-color: white;
+    background-size: contain;
+    font-family: halvetica;
+    padding: 66px;
+    margin: 7px;
+    border: 5px solid green;
+    float: left;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1;
+}
+
+.cardheart-hidden {
+    background-size: contain;
+    font-family: halvetica;
+    background-color: white;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float:left;
+    border-radius: 10px;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+}
+.cardheart { 
+    background: url('https://img.clipartfest.com/762a74d0f79eaf994e233e0db0494dbf_peach-3d-love-heart-with-pink-heart-clipart-no-background_793-1122.svg') no-repeat center center;
+    background-color: white;
+    background-size: contain;
+    font-family: halvetica;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float: left;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1;
+}
+.cardheart-matched  { 
+    background: url('https://img.clipartfest.com/762a74d0f79eaf994e233e0db0494dbf_peach-3d-love-heart-with-pink-heart-clipart-no-background_793-1122.svg') no-repeat center center;
+    background-color: white;
+    background-size: contain;
+    font-family: halvetica;
+    padding: 66px;
+    margin: 7px;
+    border: 5px solid green;
+    float: left;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1;
+}
+
+.cardmoon-hidden {
+    background-size: contain; 
+    font-family: halvetica;
+    background-color: white;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float:left;
+    border-radius: 10px;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+}
+.cardmoon { 
+    background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Moon_symbol_decrescent.svg/2000px-Moon_symbol_decrescent.svg.png') no-repeat center center;
+    background-color: white;
+    background-size: contain;
+    font-family: halvetica;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float: left;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1;
+}
+.cardmoon-matched  { 
+    background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Moon_symbol_decrescent.svg/2000px-Moon_symbol_decrescent.svg.png') no-repeat center center;
+    background-color: white;
+    background-size: contain;
+    font-family: halvetica;
+    padding: 66px;
+    margin: 7px;
+    border: 5px solid green;
+    float: left;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1;
+}
+
+.cardhappy-hidden {
+    background-size: contain;
+    font-family: halvetica;
+    background-color: white;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float:left;
+    border-radius: 10px;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+}
+.cardhappy { 
+    background: url('http://images.clipartpanda.com/smiley-face-clip-art-niXoRMbiB.png') no-repeat center center; 
+    background-color: white;
+    background-size: cover;
+    font-family: halvetica;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float: left; 
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1;
+}
+.cardhappy-matched  { 
+    background: url('http://images.clipartpanda.com/smiley-face-clip-art-niXoRMbiB.png') no-repeat center center;
+    background-color: white;
+    background-size: cover;
+    font-family: halvetica;
+    padding: 66px;
+    margin: 7px;
+    border: 5px solid green;
+    float: left;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1;
+} 
+
+.cardx-hidden {
+    background-size: contain;
+    font-family: halvetica;
+    background-color: white;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float:left;
+    border-radius: 10px;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+}
+.cardx { 
+    background: url('http://rdthairsalon.com/blog/wp-content/plugins/wp-app-maker/asset-studio/res/clipart/icons/cross.svg') no-repeat center center;
+    background-color: white;
+    background-size: contain;
+    font-family: halvetica;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float: left; 
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1;
+}
+.cardx-matched { 
+    background: url('http://rdthairsalon.com/blog/wp-content/plugins/wp-app-maker/asset-studio/res/clipart/icons/cross.svg') no-repeat center center;
+    background-color: white;
+    background-size: contain;
+    font-family: halvetica;
+    padding: 66px;
+    margin: 7px;
+    border: 5px solid green;
+    float: left;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1;
+}
+
+.cardcar-hidden {
+    background-size: contain;
+    font-family: halvetica;
+    background-color: white;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float:left;
+    border-radius: 10px;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+}
+.cardcar { 
+    background: url('https://thumbs.dreamstime.com/x/cartoon-car-6130011.jpg') no-repeat center center;
+    background-color: white;
+    background-size: contain; 
+    font-family: halvetica;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float: left;  
+    display: block;
+    position: relative; 
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1;
+}
+.cardcar-matched { 
+    background: url('https://thumbs.dreamstime.com/x/cartoon-car-6130011.jpg') no-repeat center center;
+    background-color: white;
+    background-size: contain;
+    font-family: halvetica;
+    padding: 66px;
+    margin: 7px;
+    border: 5px solid green;
+    float: left;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1;
+}
+
+.cardtriangle-hidden {
+    background-size: contain;
+    font-family: halvetica;
+    background-color: white;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float:left;
+    border-radius: 10px;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+}
+.cardtriangle { 
+    background: url('http://weknownyourdreamz.com/images/triangle/triangle-01.jpg') no-repeat center center;
+    background-color: white;
+    background-size: contain; 
+    font-family: halvetica;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float: left;  
+    display: block;
+    position: relative; 
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1;
+}
+.cardtriangle-matched { 
+    background: url('http://weknownyourdreamz.com/images/triangle/triangle-01.jpg') no-repeat center center;
+    background-color: white;
+    background-size: contain;
+    font-family: halvetica;
+    padding: 66px;
+    margin: 7px;
+    border: 5px solid green;
+    float: left;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1;
+}
+
+.cardbam-hidden {
+    background-size: contain;
+    font-family: halvetica;
+    background-color: white;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float:left;
+    border-radius: 10px;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+}
+.cardbam { 
+    background: url('http://finroo.com/378-2046-thickbox/bam-bam-bam.jpg') no-repeat center center;
+    background-color: white;
+    background-size: contain; 
+    font-family: halvetica;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float: left;  
+    display: block;
+    position: relative; 
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1;
+}
+.cardbam-matched { 
+    background: url('http://finroo.com/378-2046-thickbox/bam-bam-bam.jpg') no-repeat center center;
+    background-color: white;
+    background-size: contain;
+    font-family: halvetica;
+    padding: 66px;
+    margin: 7px;
+    border: 5px solid green;
+    float: left;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1;
+}
+
+.cardunicorn-hidden {
+    background-size: contain;
+    font-family: halvetica;
+    background-color: white;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float:left;
+    border-radius: 10px;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+} 
+.cardunicorn { 
+    background: url('https://t3.ftcdn.net/jpg/01/24/14/12/240_F_124141239_qL6EgXOc7gWWw2fbzBmic9YANoZiUmfB.jpg') no-repeat center center;
+    background-color: white;
+    background-size: contain; 
+    font-family: halvetica;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float: left;  
+    display: block;
+    position: relative; 
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1;
+}
+.cardunicorn-matched { 
+    background: url('https://t3.ftcdn.net/jpg/01/24/14/12/240_F_124141239_qL6EgXOc7gWWw2fbzBmic9YANoZiUmfB.jpg') no-repeat center center;
+    background-color: white;
+    background-size: contain;
+    font-family: halvetica;
+    padding: 66px;
+    margin: 7px;
+    border: 5px solid green;
+    float: left;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1;
+}
+
+.cardstatue-hidden {
+    background-size: contain;
+    font-family: halvetica;
+    background-color: white;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float:left;
+    border-radius: 10px;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+}
+.cardstatue { 
+    background: url('https://st.depositphotos.com/1967477/2807/v/950/depositphotos_28071143-stock-illustration-liberty-statue-cartoon.jpg') no-repeat center center;
+    background-color: white;
+    background-size: contain; 
+    font-family: halvetica;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float: left;  
+    display: block;
+    position: relative; 
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1;
+}
+.cardstatue-matched { 
+    background: url('https://st.depositphotos.com/1967477/2807/v/950/depositphotos_28071143-stock-illustration-liberty-statue-cartoon.jpg') no-repeat center center;
+    background-color: white;
+    background-size: contain;
+    font-family: halvetica;
+    padding: 66px;
+    margin: 7px;
+    border: 5px solid green;
+    float: left;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1; 
+}
+
+.cardballoon-hidden {
+    background-size: contain;
+    font-family: halvetica;
+    background-color: white;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float:left;
+    border-radius: 10px;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+}
+.cardballoon { 
+    background: url('https://thumbs.dreamstime.com/x/group-cartoon-balloons-2-18896731.jpg') no-repeat center center;
+    background-color: white;
+    background-size: contain; 
+    font-family: halvetica;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float: left;  
+    display: block;
+    position: relative; 
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1;
+}
+.cardballoon-matched { 
+    background: url('https://thumbs.dreamstime.com/x/group-cartoon-balloons-2-18896731.jpg') no-repeat center center;
+    background-color: white;
+    background-size: contain;
+    font-family: halvetica;
+    padding: 66px;
+    margin: 7px;
+    border: 5px solid green;
+    float: left;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1; 
+}
+
+.cardbear-hidden {
+    background-size: contain;
+    font-family: halvetica;
+    background-color: white;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float:left;
+    border-radius: 10px;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+}
+.cardbear { 
+    background: url('http://images.clipartpanda.com/bear-clipart-dcr5KdRc9.png') no-repeat center center;
+    background-color: white;
+    background-size: contain; 
+    font-family: halvetica;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float: left;  
+    display: block;
+    position: relative; 
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1;
+}
+.cardbear-matched { 
+    background: url('http://images.clipartpanda.com/bear-clipart-dcr5KdRc9.png') no-repeat center center;
+    background-color: white;
+    background-size: contain;
+    font-family: halvetica;
+    padding: 66px;
+    margin: 7px;
+    border: 5px solid green;
+    float: left;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1; 
+}
+
+
+.cardflag-hidden {
+    background-size: contain;
+    font-family: halvetica;
+    background-color: white;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float:left;
+    border-radius: 10px;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+}
+.cardflag { 
+    background: url('https://imgs-tuts-dragoart-386112.c.cdn77.org/how-to-draw-the-american-flag_1_000000002224_5.gif') no-repeat left center;
+    background-color: white;
+    background-size: cover; 
+    font-family: halvetica;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float: left;  
+    display: block;
+    position: relative; 
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1;
+}
+.cardflag-matched { 
+    background: url('https://imgs-tuts-dragoart-386112.c.cdn77.org/how-to-draw-the-american-flag_1_000000002224_5.gif') no-repeat left center;
+    background-color: white;
+    background-size: contain;
+    font-family: halvetica;
+    padding: 66px;
+    margin: 7px;
+    border: 5px solid green;
+    float: left;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1; 
+}
+
+.cardtree-hidden {
+    background-size: contain;
+    font-family: halvetica;
+    background-color: white;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float:left;
+    border-radius: 10px;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+}
+.cardtree { 
+    background: url('../IMG_6031.PNG') no-repeat center center;
+    background-color: white;
+    background-size: cover; 
+    font-family: halvetica;
+    padding: 70px;
+    margin: 7px;
+    border: 1px solid black;
+    float: left;  
+    display: block;
+    position: relative; 
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1;
+}
+.cardtree-matched { 
+    background: url('../IMG_6031.PNG') no-repeat center center;
+    background-color: white;
+    background-size: cover;
+    font-family: halvetica;
+    padding: 66px;
+    margin: 7px;
+    border: 5px solid green;
+    float: left;
+    display: block;
+    position: relative;
+    left:50px;
+    top: 40px;  
+    min-width: 150px;
+    max-width: 500px;
+    overflow: scroll;
+    z-index: 1; 
+}
+
+.card1:hover, .card2:hover, .card3:hover, .card4:hover, .card5:hover, .card6:hover, .card7:hover, .card8:hover, .card9:hover, .card10:hover, .card11:hover, .card12:hover, .card13:hover, .card14:hover, .card15:hover, .card16:hover, .card17:hover, .card18:hover, .card19:hover, .card20:hover, .card21:hover, .card22:hover, .card23:hover, .card24:hover, .card25:hover, .card26:hover, .card27:hover, .card28:hover, .card29:hover, .card30:hover {
+    background-color:#a5e1ff;  
+}
+
+.instructions {
+    font-size: 24px;
+    margin-top: 0;
+    text-align: center;
+    font-size: 30;
+}
+
+h1 {
+    font-size: 40;
+    text-align: center;
+    display: block;
+    left: -3em;
+    margin-top: 20px;
+    margin-bottom: -15px;
+}
+
+.color {
+    background-color: black;
+    height: 1300;
+    width: 100%;
+    position: relative;
+}
+
+.player-score li {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    display: inline-block;
+    position: relative;
+    left: 170px;
+    margin-bottom: 20px; 
+
+}
+
+.title-bar li {
+    text-align: center;
+    font-family: Chalkboard;
+    font-size: 20px;
+    background-color: white;
+    border: 1px solid black; 
+    display: inline-block;
+    padding: 4px;
+    position: relative;
+    top: -95px;
+    left: 150px;
+    border-radius: 10px;
+    margin: 5px;
+    overflow: scroll;
+}
+
+.restart:hover, .easy:hover, .normal:hover, .hard:hover, .challenge:hover {
+    background-color:#a5e1ff;
+}
+
+.turn {
+    font-size: 30px;
+    margin: 0;
+    z-index: 2;
+    text-align: center;
+}
+
